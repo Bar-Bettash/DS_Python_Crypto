@@ -10,6 +10,9 @@
 The project performs feature engineering, visualization, and model training using logistic regression to predict the 'target' (price increase/decrease).
 
 ### Data from
+
+Download the data (or use an API command if available) from: 
+
 (https://www.kaggle.com/competitions/directional-forecasting-in-cryptocurrencies/overview)
 
 ### Built With
